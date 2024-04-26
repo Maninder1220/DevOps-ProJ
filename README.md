@@ -1,3 +1,3 @@
 # DevOps-ProJ
 
-# 1. Bash Script Project | U R  in Branch : bash
+# 1. Ruby on Rails - API | You are on Ruby Branch
